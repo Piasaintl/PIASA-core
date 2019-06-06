@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/piasa_bg.qm</file>
+        <file alias="ca">locale/piasa_ca.qm</file>
+        <file alias="cs">locale/piasa_cs.qm</file>
+        <file alias="da">locale/piasa_da.qm</file>
+        <file alias="de">locale/piasa_de.qm</file>
+        <file alias="en">locale/piasa_en.qm</file>
+        <file alias="en_US">locale/piasa_en_US.qm</file>
+        <file alias="es">locale/piasa_es.qm</file>
+        <file alias="fi">locale/piasa_fi.qm</file>
+        <file alias="fr_FR">locale/piasa_fr_FR.qm</file>
+        <file alias="hr">locale/piasa_hr.qm</file>
+        <file alias="it">locale/piasa_it.qm</file>
+        <file alias="ja">locale/piasa_ja.qm</file>
+        <file alias="ko_KR">locale/piasa_ko_KR.qm</file>
+        <file alias="nl">locale/piasa_nl.qm</file>
+        <file alias="pl">locale/piasa_pl.qm</file>
+        <file alias="pt">locale/piasa_pt.qm</file>
+        <file alias="pt_BR">locale/piasa_pt_BR.qm</file>
+        <file alias="ro_RO">locale/piasa_ro_RO.qm</file>
+        <file alias="ru">locale/piasa_ru.qm</file>
+        <file alias="sk">locale/piasa_sk.qm</file>
+        <file alias="sv">locale/piasa_sv.qm</file>
+        <file alias="tr">locale/piasa_tr.qm</file>
+        <file alias="uk">locale/piasa_uk.qm</file>
+        <file alias="zh_CN">locale/piasa_zh_CN.qm</file>
+        <file alias="zh_TW">locale/piasa_zh_TW.qm</file>
+    </qresource>
+</RCC>

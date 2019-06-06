@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PIASA
+Comment=PIASA P2P Cryptocurrency
+Comment[fr]=PIASA, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=PIASA, eşten eşe kriptografik sanal para birimi
+Exec=piasa-qt %u
+Terminal=false
+Type=Application
+Icon=piasa128
+MimeType=x-scheme-handler/piasa;
+Categories=Office;Finance;

@@ -1,0 +1,26 @@
+# /etc/conf.d/piasad: config file for /etc/init.d/piasad
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/piasa/piasa.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/piasad"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/piasad.pid"
+
+# Where to write piasad data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/piasad"
+
+# User and group to own piasad process
+#BITCOIND_USER="piasa"
+#BITCOIND_GROUP="piasa"
+
+# Path to piasad executable
+#BITCOIND_BIN="/usr/bin/piasad"
+
+# Nice value to run piasad under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
